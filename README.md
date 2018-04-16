@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![Jekyll Version](https://img.shields.io/badge/Jekyll-3.1.2-red.svg)
 ![Build Status](https://gitlab.com/jekyll-themes/default-bundler/badges/master/build.svg)
 
@@ -136,6 +137,10 @@ If you'd like to preview the theme locally (for example, in the process of propo
 [Bundler]: http://bundler.io/
 [Jekyll]: http://jekyllrb.com/
 [jek-312]: https://rubygems.org/gems/jekyll/versions/3.1.2
+=======
+# whve.github.io
+whve's blogs
+>>>>>>> parent of 1b6fbc9... Set theme jekyll-theme-leap-day
 =======
 # whve.github.io
 whve's blogs
