@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# How to training yourself?
+--By whve.
+--2018年4月18日
+# Acknowledgements
+## Thanks to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/whve/whve.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
