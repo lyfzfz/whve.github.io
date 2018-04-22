@@ -3,8 +3,8 @@
 --2018年4月18日
 ## Acknowledgements
 ### Thanks to GitHub Pages
-[2018年4月22日 反思](https://whve.GitHub.com/Text 01)
-
+[2018年4月22日 反思](https://whve.github.io/Text%2001/)
+[2018年4月22日 反思](https://whve.github.io/Text 01/)  
 firefox
 
 ![Image of firefox](https://whve.github.io/firefox.png)
