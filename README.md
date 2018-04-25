@@ -1,4 +1,4 @@
-** How to training yourself?**  
+**How to training yourself?**  
 > 成人世界,有些伤感,时间流逝,无法抑制.  
 互联网一隅, 乱心处偷闲.
 
