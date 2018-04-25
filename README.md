@@ -1,47 +1,7 @@
-# How to training yourself?
---By whve.
---2018年4月18日
-## Acknowledgements
-### Thanks to GitHub Pages
-[2018年4月22日 反思](https://whve.github.io/Text%2001/)  
-[2018年4月22日 反思](https://whve.github.io/Text 01/)  
+** How to training yourself?**  
+> 成人世界,有些伤感,时间流逝,无法抑制.  
+互联网一隅, 乱心处偷闲.
 
-firefox
-
-![Image of firefox](https://whve.github.io/firefox.png)
-
-You can use the [editor on GitHub](https://github.com/whve/whve.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-#### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-#### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/whve/whve.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-#### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### **目录**
+1. [**如何做生物信息方向科研?**](https://whve.github.io/Bioinformatics/)  
+1. **如何从容应对每一天**
