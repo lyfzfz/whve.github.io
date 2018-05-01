@@ -20,8 +20,10 @@
 ### 图像
 引用网络图像  
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
-
- <img src="https://octodex.github.com/images/yaktocat.png" width = "300" height = "" alt="yaktocat" align=center />
+#### 调整图片大小在GitHub上显示
+``` html
+<img src="https://octodex.github.com/images/yaktocat.png" width = "300" height = "" alt="yaktocat"  align=center />
+```
 ## 引用
 > 这是什么  
 > 引用某人  
