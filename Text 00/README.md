@@ -19,7 +19,8 @@
 
 ### 图像
 引用网络图像  
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png =100x100)  
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+<img src="./yaktocat.png" width = "300" height = "200" alt="yaktocat" align=center />
 标题
 > 这是什么  
 > 引用某人  
