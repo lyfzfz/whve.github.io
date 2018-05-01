@@ -18,7 +18,8 @@
       - 四重缩进!!!
 
 ### 图像
-引用网络图像![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
+引用网络图像  
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
 标题
 > 这是什么  
 > 引用某人  
