@@ -12,6 +12,6 @@
 ~~蓬勃而发,正聋发聩之语,不应在安逸中淡忘.~~
 1. **负能量实录**  
 ~~真实记录自己的阴暗,警醒不要在重回低谷.~~
-1. [**Markdown指南**](https://whve.github.io/Text 00/)
-1. [**反思**](https://whve.github.io/Text 01/)
-1. [**生物信息学-蛋白质**](https://whve.github.io/Text 02/)
+1. [**Markdown指南**](https://whve.github.io/Text%2000/)
+1. [**反思**](https://whve.github.io/Text%2001/)
+1. [**生物信息学-蛋白质**](https://whve.github.io/Text%2002/)
