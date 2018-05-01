@@ -20,7 +20,7 @@
 ### 图像
 引用网络图像  
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
- <img src="https://octodex.github.com/images/yaktocat.png" width = "300" height = "200" alt="yaktocat" align=center />
+ <img src="https://octodex.github.com/images/yaktocat.png" width = "300" height = "" alt="yaktocat" align=center />
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png){:height="50%" width="50%"}
 标题
 > 这是什么  
