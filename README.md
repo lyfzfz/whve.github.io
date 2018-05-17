@@ -6,12 +6,14 @@
 ## 我要到哪里去?
 我要到的地方在过去,永远也到不了了,现在的自己我很不喜欢,就算得到所有自己想要的又能如何?我已经渐渐失去本心.
 >  **目录**
-1. [**生物信息学**](https://whve.github.io/Bioinformatics/)  ~~2017.09~2020.06  
+1. ~~Bioinformatics~~[**生物信息学**](https://whve.github.io/Bioinformatics/)  ~~2017.09~2020.06  
 记录研究生期间学习情况.~~
 1. **正能量参考**  
 ~~蓬勃而发,正聋发聩之语,不应在安逸中淡忘.~~
 1. **负能量实录**  
 ~~真实记录自己的阴暗,警醒不要在重回低谷.~~
-1. [**Markdown指南**](https://whve.github.io/Text%2000/)
-1. [**反思**](https://whve.github.io/Text%2001/)
-1. [**生物信息学-蛋白质**](https://whve.github.io/Text%2002/)
+1. ~~Text 00~~[**Markdown指南**](https://whve.github.io/Text%2000/)
+1. ~~Text 01~~[**反思**](https://whve.github.io/Text%2001/)
+1. ~~Text 02~~[**生物信息学-蛋白质**](https://whve.github.io/Text%2002/)
+1. ~~Java~~[**Java安装**](https://whve.github.io/Java/)
+1. ~~Tables~~[**账户**](https://whve.github.io/Java/)
