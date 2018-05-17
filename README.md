@@ -16,4 +16,4 @@
 1. ~~Text 01~~[**反思**](https://whve.github.io/Text%2001/)
 1. ~~Text 02~~[**生物信息学-蛋白质**](https://whve.github.io/Text%2002/)
 1. ~~Java~~[**Java安装**](https://whve.github.io/Java/)
-1. ~~Tables~~[**账户**](https://whve.github.io/Java/)
+1. ~~Tables~~[**账户**](https://whve.github.io/Tables/)
