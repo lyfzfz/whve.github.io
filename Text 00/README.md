@@ -6,7 +6,9 @@
 # 空行的写法
 如果上下两行格式相同,回车不会在预览模式另起一行,两个回车会空一行.通用性不知道.需要换行的话,句尾加两个空格再回车.
 # 来自官方的教程
-可以建议的使用**粗体**和*斜体*.亦可以连接到[github markdown](https://guides.github.com/features/mastering-markdown/)!  ~~此处包含超链接~~  
+可以建议的使用**粗体**和*斜体*.亦可以连接到
+[github markdown](https://guides.github.com/features/mastering-markdown/)
+!  ~~此处包含超链接~~  
 是不是很简单?  
 ## 列表
 1.优点:提高效率,可读性  
