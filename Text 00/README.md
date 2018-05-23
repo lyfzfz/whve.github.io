@@ -11,9 +11,29 @@
 !  ~~此处包含超链接~~  
 是不是很简单?  
 ## 列表
-1.优点:提高效率,可读性  
-2.缺点:通用性有差异,造成不同平台差异  
+```
+1. 优点:提高效率,可读性  
+1. 缺点:通用性有差异,造成不同平台差异  
+```
+1. 优点:提高效率,可读性  
+1. 缺点:通用性有差异,造成不同平台差异  
+
+### _You **can** combine them_
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b  
+
 ### 缩进
+
+```
+- 学习编程
+  - 像python
+    - 三重缩进
+      - 四重缩进!!!
+```
 - 学习编程
   - 像python
     - 三重缩进
@@ -21,26 +41,51 @@
 
 ### 图像
 引用网络图像  
+
+```
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
+```
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)  
 #### 调整图片大小在GitHub上显示
 ``` html
 <img src="https://octodex.github.com/images/yaktocat.png" width = "300" height = "" alt="yaktocat"  align=center />
 ```
 ## 引用
+
+```
 > 这是什么  
 > 引用某人  
+```
+> 这是什么  
+> 引用某人
 
 代码单行  
+
+```
+`print('Hello World!')`  
+```
+效果  
 `print('Hello World!')`  
 代码块  
+无法展现源代码
+
+效果  
+
+print('Hello World!')
+
 ```
 print('Hello World!')
 ```  
-代码高亮
+代码高亮+pyhton
 ``` python
 print('Hello World!')
 ```
 ## 制作待办事项To-do List  
+```
+- [x] This is a complete item
+- [ ] This is an incomplete item
+```
+
 - [x] This is a complete item
 - [ ] This is an incomplete item
 
@@ -69,29 +114,52 @@ section 晚期
 无尽凉凉:2013-10-14,3650d
 ```
 ## 分割线
+```
+---
+***
+```
+---
 ***
 # 基本语法
-强调  
+## 强调  
+### 斜体  
+```
+*This text will be italic*  
+_This will also be italic_
+```
 *This text will be italic*  
 _This will also be italic_  
-
+### 加粗  
+```
+**This text will be bold**  
+__This will also be bold__
+```
 **This text will be bold**  
 __This will also be bold__
 
-_You **can** combine them_
 
-1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b  
 
 ## Inline code
    I think you should use an
    `<addr>` element here instead.
+   ```
+   I think you should use an
+   `<addr>` element here instead.
+   ```
 ## Strikethrough删除线
+```
+~~妳好~~
+<del>**你好**</del>
+```
+~~妳好~~
 <del>**你好**</del>
 
 姓名 | 年龄
 ---- | ----
 whve | 25
+
+```
+姓名 | 年龄
+---- | ----
+whve | 25
+```
