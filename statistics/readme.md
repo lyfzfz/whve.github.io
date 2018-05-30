@@ -1,5 +1,5 @@
 ## 统计学术语
-![Image of Sensitivity_and_specificity.png](https://whve.github.com/images/Sensitivity_and_specificity.png)  
+![Image of Sensitivity_and_specificity.png](https://whve.github.io/images/Sensitivity_and_specificity.png)  
 sensitivity:灵敏度true positive rate(好坏都行,滥竽充数)  
 Sensitivity = TP/(TP+FN)  
 TPR = TP/P  
