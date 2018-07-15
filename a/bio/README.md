@@ -1,3 +1,14 @@
+# bioinformatics
+
+## 小分子在生命中的作用
+生命的起源与火山相关.一些火山口附近,存在小分子即小肽.
+有一种假说,正是因为这些小分子的出现,才会为后来蛋白质的出现提供基础.就好像是织毛衣的毛衣球,毛球的形状取决于内部的形状.    
+此为蛋白质起源的小分子诱导假说.
+
+## 生信杂志
+1. [bib](https://academic.oup.com/bib)
+1. [bioinformatics](https://academic.oup.com/bioinformatics)
+
 
 # 蛋白质结构预测与分析  
 ## 蛋白质的结构  
