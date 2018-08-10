@@ -6,7 +6,10 @@
 1. NET能伤害到我吗?		[x]
 1. NET我非上不可吗?		[ ]		则OK!
 
-[Bing](https://cn.bing.com/)
+1. [Bing](https://cn.bing.com/)
+1. [lantern](https://github.com/getlantern/download)
+
+
 
 >  **传送门**
 1. [**反思**](https://whve.github.io/a/note/)
