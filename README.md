@@ -6,8 +6,10 @@
 1. NET能伤害到我吗?		[x]
 1. NET我非上不可吗?		[ ]		则OK!
 
-1. [Bing](https://cn.bing.com/)
-1. [lantern](https://github.com/getlantern/download)
+1. [Bing搜索](https://cn.bing.com/)
+1. [游戏-dota2-视频](https://pan.baidu.com/s/12HswdyM_exodrzFI8htbYA)
+1. [**成长**故事](https://whve.github.io/a/storys)
+1. [lantern下载](https://github.com/getlantern/download)
 
 
 
