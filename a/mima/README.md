@@ -2,6 +2,13 @@
 MM:Ab******-
 User name:Heal_Ty_wz
 
+Email Account | Answer | 绑定账户
+------------ | ------------- | --
+google-healwoaini@gmail.com|ty******
+microsoft-heal_w@outlook.com | wr****** | facebook已经停用
+Facebook | ty******-  | 17353963320 instagram
+Twitter|ty******-|17353963320
+
 Account | Answer
 ------------ | -------------
 **Most Account** | Ab******-
