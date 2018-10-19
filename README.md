@@ -1,5 +1,5 @@
-# **Whve's Home**   
-
+# **Captain Whve, Whve's Home**   
+![Captain](images/望远镜.jpg)
 日期 | **传** | **送** | **门** 
 ---- | ---- | ---- |---
 2018 |  | [Bing搜索](https://cn.bing.com/) | [**成长**故事](https://whve.github.io/a/storys)
@@ -15,4 +15,4 @@ wechat: z1z2bz3
 HomePage: https://whve.github.io/
 ```
 
-> ~~[壹](https://whve.github.io/a/mima/)、[贰](https://whve.github.io/a/storys/fbi)、[叁](https://github.com/getlantern/download)、[肆]、[伍]、[陆]、[柒]、[捌]、[玖]、[拾]~~
+~~[壹](https://whve.github.io/a/mima/)、[贰](https://whve.github.io/a/storys/fbi)、[叁](https://github.com/getlantern/download)、[肆]、[伍]、[陆]、[柒]、[捌]、[玖]、[拾]~~
