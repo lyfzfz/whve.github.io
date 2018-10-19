@@ -13,5 +13,6 @@ Email: heal_w@outlook.com
 QQ: 871607265
 wechat: z1z2bz3
 HomePage: https://whve.github.io/
-o_O|o_O|o_O|o_O|o_O|o_O|o_O|o_O|o_O|o_O|o_O|o_O|o_O
-、[壹](https://whve.github.io/a/mima/)、[贰](https://whve.github.io/a/storys/fbi)、[叁](https://github.com/getlantern/download)、[肆]、[伍]、[陆]、[柒]、[捌]、[玖]、[拾]、
+
+
+~~[壹](https://whve.github.io/a/mima/)、[贰](https://whve.github.io/a/storys/fbi)、[叁](https://github.com/getlantern/download)、[肆]、[伍]、[陆]、[柒]、[捌]、[玖]、[拾]~~
