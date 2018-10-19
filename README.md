@@ -8,7 +8,7 @@
 2018 | [**生物信息学**](https://whve.github.io/a/bio/) | [**反思**](https://whve.github.io/a/note/) | [英语](https://whve.github.io/a/eng/)
 [**Markdown指南**](https://whve.github.io/a/markdown/) | [**python**](https://whve.github.io/a/python/) | [**Java安装**](https://whve.github.io/a/Java/) | [教师资格证面试](https://whve.github.io/a/teacher)
 
-#### ==@联系方式==
+### **@联系方式**
 ```
 TEL: 17353963320
 Email: heal_w@outlook.com
