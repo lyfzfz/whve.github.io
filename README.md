@@ -17,6 +17,8 @@ wechat: z1z2bz3
 HomePage: https://whve.github.io/
 ```
 
+***
+
 Youth is not a time of life; it is a state of mind; it is not a matter of rosy cheeks, red lips and supple knees; it is a matter of the will, a quality of the imagination, a vigor of the emotions; it is the freshness of the deep springs of life.
 
 青春不是年华，而是心境；青春不是桃面、丹唇、柔膝，而是深沉的意志，恢宏的想象，炙热的感情；青春是生命的深泉在涌流。
@@ -39,3 +41,5 @@ When the aerials are down, and your spirit is covered with snows of cynicism and
 
 
 ~~[壹](https://whve.github.io/a/mima/)、[贰](https://whve.github.io/a/storys/fbi)、[叁](https://github.com/getlantern/download)、[肆]、[伍]、[陆]、[柒]、[捌]、[玖]、[拾]~~
+
+---
