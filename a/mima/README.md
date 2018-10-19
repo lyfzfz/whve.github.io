@@ -1,6 +1,4 @@
-2018年6月14日  
-MM:Ab******-
-User name:Heal_Ty_wz
+> 2018年6月14日  
 
 Email Account | Answer | 绑定账户
 ------------ | ------------- | --
@@ -18,7 +16,7 @@ Udacity-heal_w@outlook.com | Ty******-
 **Other** | [before]
 heal_w@outlook.com | wr******
 healwoaini@gmail.com | ty******
-okke-heal_ok | ok123712
+okke-heal_ok | ok******
 Baidudisk-欣欣回见 | bd******-
 bili-z1z2bz3@ | ty******
 **vifuMM** | [gold]
@@ -39,57 +37,28 @@ RSS-feeldy | https://feedly.com/i/discover(微软账号)
 UZER.ME	z1z2bz3@163.com | ty******
 
 
-==taobao==
-	蒙山木又寸 蒙山王老吉
-	tb******
-	未绑定淘宝账户 heal_w@163.com 	认证
-	云蒙桃园 871607265@qq.com 	未认证					
-	安婕丽   z1z2bz3@163.com 	认证
-
-==dota2== sndclms heal_w 
-
-==股票==9901651762
-
-==征信中心==
-lvshujuan1967	zx******
-
-==github==
-z1z2bz3@163.com healwz
-ty******
-
-
-生活：
-	德州市人民医院 王吉吉林 昵称 但丁 ty******
-
-网络：
-	http://download.csdn.net/my/downloads sndclms ty******
-
-z1z2bz3@163.com
-heal_w@163.com
-wy******
-//wy******wy
+==taobao== | 1 | 2
+--- | --- |---
+蒙山木又寸 蒙山王老吉 | tb****** | 未绑定淘宝账户
+heal_w@163.com |认证 |
+ 云蒙桃园 | 871607265@qq.com | 未认证					
+安婕丽 | z1z2bz3@163.com | 认证
+==dota2== | sndclms | heal_w 
+==股票== | 9901651762
+==征信中心== | lvshujuan1967 | zx******
+==github== | z1z2bz3@163.com healwz | ty******
+德州市人民医院 | 王吉吉林 | 昵称:但丁 ty******
+[CSDN](http://download.csdn.net/my/downloads) | sndclms | ty******
+z1z2bz3@163.com heal_w@163.com | wy****** wy******wy
+智联招聘 | 1. 18865735664 2. z1z2bz3@163.com | zl******
+58 | z1z2bz3@163.com | ty******
+[洋葱路由](http://hss3uro2hsxfogfq.onion/) ||
 
 
----
-
-智联招聘
-1. 18865735664
-2. z1z2bz3@163.com
-zl******
-
-58
-z1z2bz3@163.com
-ty******
+mima等级 | 关键字 | 邮箱
+--- | --- | ---
+1 | 特殊[-] | heal_w@outlook.com
+1 | Ty[-] | heal_w@icloud.com
+游客 | Yk[-] | 
 
 
-账号命名规则
-2017年7月30日
-星*5 Apple邮箱：heal_w@icloud.com
-星*4 微软：heal_w@outlook.com
-通用用户名：HealTywz
-HealPgwz 苹果
-HealWrwz 微软
-Ty******-
-Pt******(普通)
-
-[洋葱路由](http://hss3uro2hsxfogfq.onion/)

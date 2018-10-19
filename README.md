@@ -1,27 +1,17 @@
-# **导航**   
+# **Whve's Home**   
 
-> Tips:我觉得自己还有很强的可塑性,所以不要放弃.
-网络三问:
-1. NET对我有帮助吗?		[ ]
-1. NET能伤害到我吗?		[x]
-1. NET我非上不可吗?		[ ]		则OK!
-1. [FBI Warning](https://whve.github.io/a/storys/fbi)
-1. [Bing搜索](https://cn.bing.com/)
-1. [游戏-dota2-视频](https://pan.baidu.com/s/12HswdyM_exodrzFI8htbYA)
-1. [**成长**故事](https://whve.github.io/a/storys)
-1. [lantern下载](https://github.com/getlantern/download)
+日期 | **传** | **送** | **门** 
+---- | ---- | ---- |---
+2018 |  | [Bing搜索](https://cn.bing.com/) | [**成长**故事](https://whve.github.io/a/storys)
+2018 | [**生物信息学**](https://whve.github.io/a/bio/) | [**反思**](https://whve.github.io/a/note/) | [英语](https://whve.github.io/a/eng/)
+[**Markdown指南**](https://whve.github.io/a/markdown/) | [**python**](https://whve.github.io/a/python/) | [**Java安装**](https://whve.github.io/a/Java/) | [教师资格证面试](https://whve.github.io/a/teacher)
 
 
-
->  **传送门**
-1. [**反思**](https://whve.github.io/a/note/)
-1. [**生物信息学**](https://whve.github.io/a/bio/)  ~~2017.09~2020.06  
-记录研究生期间学习内容.~~
-1. [英语](https://whve.github.io/a/eng/)
-1. [**Markdown指南**](https://whve.github.io/a/markdown/)
-1. [**python**](https://whve.github.io/a/python/)
-1. [**Java安装**](https://whve.github.io/a/Java/)
-1. [教师资格证面试](https://whve.github.io/a/teacher)
-1. ~~隐藏入口~~[**账户**](https://whve.github.io/a/mima/)
-
-记住我的网址:https://whve.github.io/
+> ##### 联系方式
+>TEL: 17353963320
+Email: heal_w@outlook.com
+QQ: 871607265
+wechat: z1z2bz3
+HomePage: https://whve.github.io/
+o_O|o_O|o_O|o_O|o_O|o_O|o_O|o_O|o_O|o_O|o_O|o_O|o_O
+、[壹](https://whve.github.io/a/mima/)、[贰](https://whve.github.io/a/storys/fbi)、[叁](https://github.com/getlantern/download)、[肆]、[伍]、[陆]、[柒]、[捌]、[玖]、[拾]、
