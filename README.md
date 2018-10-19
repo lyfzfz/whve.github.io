@@ -4,9 +4,12 @@
 
 日期 | **传** | **送** | **门** 
 ---- | ---- | ---- |---
-2018 |  | [Bing搜索](https://cn.bing.com/) | [**成长**故事](https://whve.github.io/a/storys)
-2018 | [**生物信息学**](https://whve.github.io/a/bio/) | [**反思**](https://whve.github.io/a/note/) | [英语](https://whve.github.io/a/eng/)
-[**Markdown指南**](https://whve.github.io/a/markdown/) | [**python**](https://whve.github.io/a/python/) | [**Java安装**](https://whve.github.io/a/Java/) | [教师资格证面试](https://whve.github.io/a/teacher)
+遥远回忆 | [**简历**](https://whve.github.io/a/bio/) |  | 
+工具 | [Bing搜索](https://cn.bing.com/) | [**python入门推荐**](https://whve.github.io/a/python/) | [**Java安装**](https://whve.github.io/a/Java/)
+[**Markdown指南**](https://whve.github.io/a/markdown/) |  |  | 
+无事发生 | [纸玄](https://whve.github.io/a/storys) | 
+思想活动 | [**反思**](https://whve.github.io/a/note/)
+
 
 ### **@联系方式**
 ```
@@ -42,6 +45,6 @@ When the aerials are down, and your spirit is covered with snows of cynicism and
 一旦天线下降，锐气便被冰雪覆盖，玩世不恭、自暴自弃油然而生，即使年方二十，实已垂垂老矣；然则只要树起天线，捕捉乐观信号，你就有望在八十高龄告别尘寰时仍觉年轻。
 
 
-~~[壹](https://whve.github.io/a/mima/)、[贰](https://whve.github.io/a/storys/fbi)、[叁](https://github.com/getlantern/download)、[肆]、[伍]、[陆]、[柒]、[捌]、[玖]、[拾]~~
+~~[壹](https://whve.github.io/a/mima/)、[贰](https://whve.github.io/a/storys/fbi)、[叁](https://github.com/getlantern/download)、[肆](https://whve.github.io/a/eng/)、[伍](https://whve.github.io/a/teacher)、[陆]、[柒]、[捌]、[玖]、[拾]~~
 
 ---
